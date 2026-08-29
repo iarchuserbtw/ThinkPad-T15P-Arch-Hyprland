@@ -52,6 +52,7 @@ nano
 ncdu
 neovim
 networkmanager
+nmap
 nvidia-open-dkms
 nvidia-settings
 nvidia-utils

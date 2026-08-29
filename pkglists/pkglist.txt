@@ -86,6 +86,7 @@ vim
 virt-manager
 whois
 wireplumber
+wireshark-qt
 wl-clipboard
 xdg-desktop-portal-hyprland
 xwayland-satellite

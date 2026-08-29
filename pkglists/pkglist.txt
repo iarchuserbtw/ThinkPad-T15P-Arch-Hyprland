@@ -94,4 +94,5 @@ yay-debug
 yazi
 zed
 zen-browser-bin
+zenmap
 zip

@@ -8,6 +8,7 @@ auto-cpufreq
 awww
 base
 base-devel
+bind
 brightnessctl
 btop
 caelestia-shell

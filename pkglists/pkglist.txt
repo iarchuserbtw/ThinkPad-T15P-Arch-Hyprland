@@ -77,6 +77,7 @@ swayimg
 tcc
 telegram-desktop
 thermald
+traceroute
 ttf-nerd-fonts-symbols
 ufw
 unzip

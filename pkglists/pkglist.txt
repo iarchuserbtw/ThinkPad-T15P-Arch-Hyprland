@@ -35,6 +35,7 @@ ghostty
 git
 github-cli
 gnome-keyring
+gparted
 grim
 hyprland
 intel-media-driver

@@ -17,6 +17,7 @@ cliphist
 cmake
 cmatrix
 code
+cups
 dart
 detect-it-easy-bin
 discord

@@ -56,6 +56,7 @@ ncdu
 neovim
 networkmanager
 nmap
+ntfs-3g
 nvidia-open-dkms
 nvidia-settings
 nvidia-utils

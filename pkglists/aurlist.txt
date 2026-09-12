@@ -3,6 +3,7 @@ auto-cpufreq
 caelestia-shell
 detect-it-easy-bin
 envycontrol
+lmstudio-bin
 paru
 paru-debug
 postman-bin

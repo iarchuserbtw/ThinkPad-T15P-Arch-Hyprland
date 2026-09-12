@@ -49,6 +49,7 @@ libvirt
 linux
 linux-firmware
 linux-headers
+lmstudio-bin
 mesa-utils
 mpv
 nano

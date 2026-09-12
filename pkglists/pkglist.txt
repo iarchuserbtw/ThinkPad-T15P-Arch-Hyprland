@@ -57,7 +57,8 @@ neovim
 networkmanager
 nmap
 ntfs-3g
-nvidia-open-dkms
+nvidia-open
+nvidia-prime
 nvidia-settings
 nvidia-utils
 obsidian

@@ -62,6 +62,7 @@ nvidia-open
 nvidia-prime
 nvidia-settings
 nvidia-utils
+nvtop
 obsidian
 paru
 paru-debug

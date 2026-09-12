@@ -58,7 +58,7 @@ neovim
 networkmanager
 nmap
 ntfs-3g
-nvidia-open
+nvidia-open-dkms
 nvidia-prime
 nvidia-settings
 nvidia-utils

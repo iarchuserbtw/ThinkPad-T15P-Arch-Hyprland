@@ -62,6 +62,8 @@ nvidia-prime
 nvidia-settings
 nvidia-utils
 obsidian
+paru
+paru-debug
 pipewire-audio
 pipewire-pulse
 polkit-gnome

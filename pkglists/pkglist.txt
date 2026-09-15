@@ -51,6 +51,7 @@ linux-firmware
 linux-headers
 lmstudio-bin
 mesa-utils
+metasploit
 mpv
 nano
 ncdu

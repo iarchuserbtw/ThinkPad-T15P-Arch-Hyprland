@@ -99,6 +99,7 @@ whois
 wireplumber
 wireshark-qt
 wl-clipboard
+wofi
 xdg-desktop-portal-hyprland
 xorg-xhost
 xwayland-satellite

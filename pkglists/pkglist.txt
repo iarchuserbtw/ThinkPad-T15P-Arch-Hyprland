@@ -75,6 +75,7 @@ qemu-full
 radare2
 rclone
 refind
+rofi
 sddm
 sddm-silent-theme
 slurp

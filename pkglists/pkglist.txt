@@ -64,6 +64,7 @@ nvidia-prime
 nvidia-settings
 nvidia-utils
 obsidian
+openai-codex
 paru
 paru-debug
 pipewire-audio

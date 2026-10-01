@@ -18,6 +18,7 @@ cmake
 cmatrix
 code
 cups
+cython
 dart
 detect-it-easy-bin
 discord

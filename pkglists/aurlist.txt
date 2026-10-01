@@ -7,6 +7,7 @@ lmstudio-bin
 paru
 paru-debug
 postman-bin
+pycharm
 sddm-silent-theme
 spotify
 spotify-adblock

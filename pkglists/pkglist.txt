@@ -18,7 +18,6 @@ cmake
 cmatrix
 code
 cups
-cython
 dart
 detect-it-easy-bin
 discord
@@ -73,6 +72,7 @@ pipewire-audio
 pipewire-pulse
 polkit-gnome
 postman-bin
+pycharm
 qbittorrent
 qemu-full
 radare2

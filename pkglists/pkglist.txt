@@ -61,6 +61,7 @@ nano
 ncdu
 neovim
 networkmanager
+niri
 nmap
 ntfs-3g
 nvidia-open-dkms

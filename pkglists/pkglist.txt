@@ -13,7 +13,6 @@ brightnessctl
 btop
 caelestia-shell
 cava
-cli11
 cliphist
 cmake
 cmatrix

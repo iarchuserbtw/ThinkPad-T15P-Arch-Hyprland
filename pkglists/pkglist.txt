@@ -37,7 +37,11 @@ github-cli
 gnome-keyring
 gparted
 grim
+hyprgraphics
 hyprland
+hyprlang
+hyprutils
+hyprwayland-scanner
 intel-media-driver
 intel-ucode
 jdk17-openjdk
@@ -90,6 +94,7 @@ swayimg
 tcc
 telegram-desktop
 thermald
+thunar
 traceroute
 ttf-nerd-fonts-symbols
 ufw

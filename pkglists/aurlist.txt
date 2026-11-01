@@ -4,7 +4,6 @@ caelestia-shell
 detect-it-easy-bin
 envycontrol
 http-parser
-http-parser-debug
 lmstudio-bin
 paru
 paru-debug

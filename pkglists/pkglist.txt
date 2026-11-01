@@ -37,6 +37,8 @@ github-cli
 gnome-keyring
 gparted
 grim
+http-parser
+http-parser-debug
 hyprgraphics
 hyprland
 hyprlang
